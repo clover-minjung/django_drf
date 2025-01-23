@@ -12,35 +12,35 @@ name: post_detail
 ### 게시글 생성
 url: api/v1/post/
 게시글 상세 페이지에 댓글 목록 표시
-![post_list](exp_image/create.png)
+![post_create](exp_image/create.png)
 
 ### 게시글 수정
 url: api/v1/post/pk/
-![post_list](exp_image/update.png)
+![post_update](exp_image/update.png)
 
 ### 게시글 삭제
 url: api/v1/post/pk/
-![post_list](exp_image/delete.png)
+![post_delete](exp_image/delete.png)
 
 ### 댓글 조회
 url: api/v1/post/pk/comments/
 name: comment_detail
-![post_list](exp_image/comment_list.png)
+![comment_list](exp_image/comment_list.png)
 
 ### 댓글 생성
 url: api/v1/post/pk/comments/
-![post_list](exp_image/comment_c.png)
+![comment_create](exp_image/comment_c.png)
 
 ### 댓글 수정
 url: api/v1/post/pk/comments/comments_pk/
-![post_list](exp_image/comment_u.png)
+![comment_update](exp_image/comment_u.png)
 
 ### 댓글 삭제
 url: api/v1/post/pk/comments/comments_pk/
-![post_list](exp_image/comment_d.png)
+![comment_delete](exp_image/comment_d.png)
 
 ### 좋아요
 url: api/v1/post/pk/like/
 name: like
-![post_list](exp_image/like.png)
+![like](exp_image/like.png)
 
