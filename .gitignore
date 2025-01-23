@@ -12,7 +12,6 @@ user/migrations
 static
 # media
 
-exp_image
 .vscode
 
 # Created by https://www.toptal.com/developers/gitignore/api/python,windows,django,visualstudio,venv
