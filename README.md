@@ -2,6 +2,7 @@
 ### 게시글 목록 조회
 - url: api/v1/post/     
 - name: post_list
+
 ![post_list](exp_image/post_list.png)
 
 ### 게시글 상세 조회
